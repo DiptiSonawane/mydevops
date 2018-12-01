@@ -1,0 +1,2 @@
+[all]
+172.31.41.111 ansible_ssh_private_key_file=~/.ssh/server1.pem
